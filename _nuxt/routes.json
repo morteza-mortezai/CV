@@ -1,0 +1,149 @@
+[
+  {
+    "name": "about___en",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_65cb5a98"
+  },
+  {
+    "name": "blog___en",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_1b93cf6a"
+  },
+  {
+    "name": "contact___en",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_1b656bf2"
+  },
+  {
+    "name": "index___es",
+    "path": "/es",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_265ba50e"
+  },
+  {
+    "name": "index___fr",
+    "path": "/fr",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_265ba50e"
+  },
+  {
+    "name": "inspire___en",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_fdaea87e"
+  },
+  {
+    "name": "Portfolio___en",
+    "path": "/Portfolio",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\Portfolio.vue",
+    "chunkName": "pages/Portfolio",
+    "_name": "_964c2162"
+  },
+  {
+    "name": "Resume___en",
+    "path": "/Resume",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\Resume.vue",
+    "chunkName": "pages/Resume",
+    "_name": "_4dae6194"
+  },
+  {
+    "name": "about___es",
+    "path": "/es/about",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_65cb5a98"
+  },
+  {
+    "name": "blog___es",
+    "path": "/es/blog",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_1b93cf6a"
+  },
+  {
+    "name": "contact___es",
+    "path": "/es/contact",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_1b656bf2"
+  },
+  {
+    "name": "inspire___es",
+    "path": "/es/inspire",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_fdaea87e"
+  },
+  {
+    "name": "Portfolio___es",
+    "path": "/es/Portfolio",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\Portfolio.vue",
+    "chunkName": "pages/Portfolio",
+    "_name": "_964c2162"
+  },
+  {
+    "name": "Resume___es",
+    "path": "/es/Resume",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\Resume.vue",
+    "chunkName": "pages/Resume",
+    "_name": "_4dae6194"
+  },
+  {
+    "name": "about___fr",
+    "path": "/fr/about",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_65cb5a98"
+  },
+  {
+    "name": "blog___fr",
+    "path": "/fr/blog",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_1b93cf6a"
+  },
+  {
+    "name": "contact___fr",
+    "path": "/fr/contact",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_1b656bf2"
+  },
+  {
+    "name": "inspire___fr",
+    "path": "/fr/inspire",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_fdaea87e"
+  },
+  {
+    "name": "Portfolio___fr",
+    "path": "/fr/Portfolio",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\Portfolio.vue",
+    "chunkName": "pages/Portfolio",
+    "_name": "_964c2162"
+  },
+  {
+    "name": "Resume___fr",
+    "path": "/fr/Resume",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\Resume.vue",
+    "chunkName": "pages/Resume",
+    "_name": "_4dae6194"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "C:\\\\Users\\\\m\\\\Desktop\\\\bn\\\\cafe\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_265ba50e"
+  }
+]
